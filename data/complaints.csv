@@ -1,0 +1,101 @@
+text,category
+My wifi keeps disconnecting every few minutes,Network Issue
+I cannot connect to the office wifi network,Network Issue
+The internet is extremely slow since this morning,Network Issue
+The router is not working and the internet light is off,Network Issue
+There is a network outage in the entire building,Network Issue
+My VPN connection drops repeatedly during work,Network Issue
+The DNS server is not responding and websites do not load,Network Issue
+The LAN cable port has no connectivity,Network Issue
+The wifi signal is very weak in the meeting room,Network Issue
+I am unable to access the shared network drive,Network Issue
+My internet connection keeps timing out,Network Issue
+The router needs to be restarted many times a day,Network Issue
+I cannot browse the internet after changing my wifi password,Network Issue
+The ethernet connection shows no internet access,Network Issue
+The office network is down for all users,Network Issue
+VPN authentication fails while I connect from home,Network Issue
+There is high packet loss on my network connection,Network Issue
+My laptop says wifi is connected but there is no internet,Network Issue
+Websites load only through the proxy server,Network Issue
+The network switch is blinking red and users lost connectivity,Network Issue
+I forgot my password and cannot login,Account Issue
+My account is locked after too many login attempts,Account Issue
+I am unable to reset my password using the email link,Account Issue
+I need to update my registered email address,Account Issue
+My user account has been disabled,Account Issue
+I cannot sign in to my email account,Account Issue
+My password expired and the reset page is not working,Account Issue
+The account for a new employee has not been created,Account Issue
+The two factor authentication code is not received,Account Issue
+My username is not recognized by the login page,Account Issue
+I need email account permission for a shared mailbox,Account Issue
+My account profile shows the wrong department,Account Issue
+I cannot change my password from account settings,Account Issue
+My login credentials are not working after returning from leave,Account Issue
+Please unlock my domain account,Account Issue
+The account verification link has expired,Account Issue
+Single sign on fails for the employee portal,Account Issue
+My old account still appears in the company directory,Account Issue
+I need to merge my two employee accounts,Account Issue
+The password recovery email never arrives in my inbox,Account Issue
+My laptop screen is cracked and flickering,Hardware Issue
+Some keyboard keys are not working,Hardware Issue
+The printer is not printing any documents,Hardware Issue
+The monitor does not turn on,Hardware Issue
+The mouse is not responding to movement,Hardware Issue
+My laptop battery is not charging,Hardware Issue
+The desktop computer makes a loud noise and shuts down,Hardware Issue
+The projector display is blurry,Hardware Issue
+The laptop hard disk is making a clicking sound,Hardware Issue
+The USB port is broken on my laptop,Hardware Issue
+The scanner is not detected by the computer,Hardware Issue
+The headphones microphone is not working,Hardware Issue
+My laptop overheats and the fan is very loud,Hardware Issue
+The docking station has a broken connector,Hardware Issue
+The printer has a paper jam and the rollers are stuck,Hardware Issue
+The external monitor shows no signal,Hardware Issue
+The desktop power supply has failed,Hardware Issue
+The webcam is not detected in device manager,Hardware Issue
+My laptop charger cable is damaged and sparks,Hardware Issue
+The external keyboard USB connector is broken,Hardware Issue
+The application crashes when I open a file,Software Issue
+The software installation fails with an error code,Software Issue
+Microsoft Office keeps freezing,Software Issue
+I need to update and install the software to the latest version,Software Issue
+The application is running very slow after the update,Software Issue
+This spreadsheet file will not open,Software Issue
+The antivirus scan is stuck at ninety percent,Software Issue
+The software license has expired and needs renewal,Software Issue
+The program shows a runtime error on startup,Software Issue
+A browser extension is causing errors,Software Issue
+The PDF editor crashes while saving a document,Software Issue
+The software update failed and now the application will not launch,Software Issue
+Excel formula results are wrong,Software Issue
+The application window closes automatically,Software Issue
+The software plugin is incompatible with the current version,Software Issue
+I need to reinstall the accounting software application,Software Issue
+The database client shows a connection error in the application,Software Issue
+The video conferencing software has an audio sync bug,Software Issue
+The application asks for a license key on every restart,Software Issue
+The report export produces a corrupted PDF file,Software Issue
+How do I request a new feature,General Inquiry
+I have a question about support working hours,General Inquiry
+I need information about training sessions,General Inquiry
+I have a suggestion to improve the employee portal,General Inquiry
+Where can I find the user guide,General Inquiry
+I would like a demo of the reporting module,General Inquiry
+What is the process for raising a ticket,General Inquiry
+I need clarification on the software policy,General Inquiry
+I want to request dark mode as a feature,General Inquiry
+I am asking about the upcoming maintenance schedule,General Inquiry
+How can I contact the support team,General Inquiry
+Please share information and documentation for new employees,General Inquiry
+I want to give general feedback about the support service,General Inquiry
+I have a question regarding the warranty policy,General Inquiry
+I would like to know the price for extra licenses,General Inquiry
+I have a minor suggestion for the login page design,General Inquiry
+Please arrange a walkthrough of the dashboard,General Inquiry
+I have an inquiry about the data backup schedule,General Inquiry
+What are the steps to register for the annual IT workshop,General Inquiry
+Is there a guide that explains how to use the reporting filters,General Inquiry
