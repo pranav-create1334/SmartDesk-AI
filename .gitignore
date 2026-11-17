@@ -1,0 +1,48 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local database (contains runtime user data)
+database/*.db
+database/*.db-*
+*.sqlite
+*.sqlite3
+
+# Generated Machine Learning artifacts
+models/*.joblib
+models/metrics.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Test, coverage and type-check caches
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+build/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
